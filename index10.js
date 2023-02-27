@@ -1,4 +1,4 @@
-//changing thid
+//changing this
 
 //fisrt approach
 const video1 = {
